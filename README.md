@@ -43,6 +43,7 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 
 El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
-
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahomi-bozada-velázquez-a4b4b22a4)
 
 
